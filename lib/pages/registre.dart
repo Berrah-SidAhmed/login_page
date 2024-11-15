@@ -43,7 +43,7 @@ class _RegistreState extends State<Registre> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Mytextfeild(
-              text: 'Email',
+              text: 'Emaill',
               obscure: false,
               controller: emailcontroller,
               icon: const Icon(Icons.email),
